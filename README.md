@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+* Live demo available -> https://netflix.casa
+* All content is dynamically fetched via TMDb API
+* Deployed via Heroku so it may take 30 secs for the dyno to spin up
+
 ## Available Scripts
 
 In the project directory, you can run:
