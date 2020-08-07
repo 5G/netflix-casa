@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * Live demo available -> https://netflix.casa
 * All content is dynamically fetched via TMDb API
+* Uses movie-trailer & react-youtube to automatically show YouTube trailer for titles where possible
 * Deployed via Heroku so it may take 30 secs for the dyno to spin up
 
 ## Available Scripts
